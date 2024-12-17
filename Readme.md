@@ -13,6 +13,16 @@ Safe Event QR Code Generator adalah alat yang menggunakan kriptografi RSA untuk 
 - **🖥️ Mudah Digunakan:** Antarmuka yang sederhana dan intuitif.
 - **⚡ Cepat dan Efisien:** Menghasilkan kode QR dalam hitungan detik.
 
+## 📋 Prasyarat
+- **Unduh folder Safe Ticket** dan jalankan pada IDE seperti Visual Studio Code atau IDE lain yang mendukung.
+- Jika belum memiliki library `tkinter`, instal dengan perintah berikut di terminal:
+  ```bash
+  pip install tkinter
+  ```
+- Instal library `qrcode` dengan perintah berikut di terminal:
+  ```bash
+  pip install qrcode
+
 ## 🛠️ Penginstalan
 1. Pastikan Python terinstal di sistem Anda.
 2. Clone repositori ini:
@@ -30,5 +40,9 @@ Safe Event QR Code Generator adalah alat yang menggunakan kriptografi RSA untuk 
    python main.py
    ```
 2. Ikuti instruksi di layar untuk memasukkan data acara dan menghasilkan kode QR.
+
+## ⚠️ Catatan
+- Entrybox dalam program ini hanya valid jika diisi dengan melakukan browse file, bukan dengan pengisian manual melalui keyboard.
+
 
 ---
