@@ -27,7 +27,7 @@ Safe Event QR Code Generator adalah alat yang menggunakan kriptografi RSA untuk 
 ## 🚀 Cara Menjalankan
 1. Jalankan skrip utama:
    ```bash
-   python main.py
+   python main.py / py main.py
    ```
 2. Ikuti instruksi di layar untuk memasukkan data acara dan menghasilkan kode QR.
 
