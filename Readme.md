@@ -1,3 +1,8 @@
+
+**👤 Refi Fahreza**  
+**🆔 NIM: 2111102441175**  
+**📚 UAS Makalah: Kriptografi**
+
 # 🎟️ Safe Event QR Code Generator
 
 ## 📄 Deskripsi
@@ -26,14 +31,4 @@ Safe Event QR Code Generator adalah alat yang menggunakan kriptografi RSA untuk 
    ```
 2. Ikuti instruksi di layar untuk memasukkan data acara dan menghasilkan kode QR.
 
-## 🤝 Kontribusi
-Kami menyambut kontribusi dari siapa pun. Silakan buat pull request atau buka issue untuk perbaikan dan fitur baru.
-
-## 📜 Lisensi
-Proyek ini dilisensikan di bawah MIT License.
-
 ---
-
-**👤 Refi Fahreza**  
-**🆔 NIM: 2111102441175**  
-**📚 UAS Makalah: Kriptografi**
